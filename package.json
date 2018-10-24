@@ -1,6 +1,6 @@
 {
   "name": "bitcoin-vanity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bitcoin vanity address generator",
   "source": "lib/index.js",
   "scripts": {
