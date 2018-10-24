@@ -4,7 +4,7 @@
   "description": "Bitcoin vanity address generator",
   "source": "lib/index.js",
   "scripts": {
-    "test": "node --experimental-worker node_modules/mocha/bin/_mocha",
+    "test": "mocha",
     "coverage": "open coverage/lcov-report/index.html",
     "lint": "eslint . --ext .js",
     "format": "prettier --write '**/*.{js,json,md}'",
